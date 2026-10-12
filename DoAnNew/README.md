@@ -16,9 +16,9 @@ Dự án được chia làm 2 phân chạy độc lập. Vui lòng mở 2 cửa 
 Mở Terminal 1, di chuyển vào thư mục backend và chạy lệnh:
 • bash cd backend npm install node server. js
 Lưu ý: Backend sẽ chạy tại http://localhost:5000.
-Bước 2: Khởi động Frontend (Giao diện)
+### Bước 2: Khởi động Frontend (Giao diện)
 Mở Terminal 2, di chuyển vào thư mục frontend và chạy lệnh: " cd frontend npm install npm run dev "
 Lưu ý: Frontend sẽ chạy tại http://localhost:5173 (hoặc cổng khác hiển thị trên terminal). Mở đường dẫn này trên trình duyệt (Khuyến nghị Google Chrome) để sử dụng hệ thống.
-4. Tài khoản / Mật khẩu Demo
+## 4. Tài khoản / Mật khẩu Demo
 Web yêu cầu phải đăng nhập, nên khi đăng nhập lần đâu phải tạo tài khoản
 Sau khi đăng nhập thành công ấn vào ghi chú để xem ghi chú.
