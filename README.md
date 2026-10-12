@@ -11,8 +11,8 @@ Công nghệ: ReactJS (Vite) & Node.js (Express)
 
 | STT | Họ và tên | Mã SV | Vai trò |
 | --- | --- | --- | --- |
-| 1 | Trần Tân Thuận  | 0306231071 | PM & QA |
-| 2 | Phạm Nguyễn Yến Hà | 0306231189 | Backend Developer |
+| 1 | Trần Tân Thuận  | 0306231071 | PM & QA và Fontend Developer |
+| 2 | Phạm Nguyễn Yến Hà | 0306231189 | PM & QA và Backend Developer |
 
 ## Công Nghệ Sử Dụng
 
@@ -39,7 +39,7 @@ node server.js
 ```
 
 - **Địa chỉ:** `http://localhost:5000`
-- **Lưu ý:** Hệ thống sẽ tự động tạo thư mục `data/` chứa các file JSON. Vui lòng không xóa thư mục này khi đang chạy ứng dụng.
+- **Lưu ý:** Hệ thống sẽ tự động tạo thư mục `data/users` chứa các file JSON. Vui lòng không xóa thư mục này khi đang chạy ứng dụng.
 
 ### 2. Khởi động Frontend (Giao diện)
 
@@ -56,5 +56,5 @@ npm run dev
 
 ## Tài Khoản & Mật Khẩu Demo
 
-- **Đăng nhập:** Ứng dụng không yêu cầu đăng nhập tài khoản.
+- **Đăng nhập:** Ứng dụng yêu cầu đăng nhập để xem ghi chú,lần đầu truy cập vui lòng đăng ký tài khoản.
 - **Ghi chú riêng tư:** Vào menu "Cài đặt" trên giao diện để tạo mật khẩu mới.
