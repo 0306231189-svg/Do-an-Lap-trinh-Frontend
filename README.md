@@ -11,9 +11,8 @@ Công nghệ: ReactJS (Vite) & Node.js (Express)
 
 | STT | Họ và tên | Mã SV | Vai trò |
 | --- | --- | --- | --- |
-| 1 |Trần Tân Thuận - 0306231071 và Phạm Nguyễn Yến Hà - 0306231189 | [Mã SV] | PM & QA |
-| 2 | [Họ tên] | [Mã SV] | Frontend Developer |
-| 3 | [Họ tên] | [Mã SV] | Backend Developer |
+| 1 | Trần Tân Thuận  | 0306231071 | PM & QA |
+| 2 | Phạm Nguyễn Yến Hà | 0306231189 | Backend Developer |
 
 ## Công Nghệ Sử Dụng
 
