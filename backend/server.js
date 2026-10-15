@@ -8,8 +8,11 @@ const app = express()
 app.use(cors());
 app.use(express.json());
 
-const user_dir = path.join(__dirname, "data", "users")
+const user_dir = path.join(__dirname, "data", "users");
 
+if (!fs.existsSync(user_dir)) {
+    fs.mkdirSync(user_dir, { recursive: true });
+}
 
 //User
 app.post("/api/login", async (req, res) => {
