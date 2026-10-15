@@ -4,8 +4,8 @@ Công nghệ: ReactJS (Vite) & Node.js (Express)
 
 ## Thông Tin Chung
 
-- **Giảng viên hướng dẫn:** [Tên giảng viên]
-- **Nhóm thực hiện:** Nhóm [Số nhóm]
+- **Giảng viên hướng dẫn:** Nguyễn Hoàng Việt
+
 
 ### Thành viên nhóm
 
